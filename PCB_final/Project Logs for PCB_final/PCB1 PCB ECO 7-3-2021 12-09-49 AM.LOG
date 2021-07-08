@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetMQ-135 gas sensor_2 Pin=R3-2
-Removed Member From Class: ClassName=Sheet2 Member=R1
-Removed Member From Class: ClassName=Sheet2 Member=R2
-Removed Member From Class: ClassName=Sheet2 Member=R3
-Change Component Designator: OldDesignator=Arduino Nano NewDesignator=U2
-Change Component Designator: OldDesignator=Node MCU NewDesignator=U1
-Added Pin To Net: NetName=NetMQ-135 gas sensor_2 Pin=soil moisture-2
-Added Pin To Net: NetName=NetMQ-135 gas sensor_2 Pin=temperature and humidity-2
-Added Pin To Net: NetName=NetMQ-135 gas sensor_2 Pin=U2-12
