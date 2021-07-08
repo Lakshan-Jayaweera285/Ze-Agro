@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=Node MCU
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetNode MCU_15
+Change Net Name : Old Net Name=NetRelay connections_2 New Net Name=NetNode MCU_28
+Change Net Name : Old Net Name=NetRelay connections_3 New Net Name=NetNode MCU_10
+Change Net Name : Old Net Name=Netsoil moisture_1 New Net Name=NetNode MCU_1
+Change Net Name : Old Net Name=Nettemperature and humidity_1 New Net Name=NetNode MCU_29
+Change Net Name : Old Net Name=Nettemperature and humidity_2 New Net Name=NetNode MCU_25
+Added Member To Class: ClassName=Sheet2 Member=Component Node MCU ZC563900
